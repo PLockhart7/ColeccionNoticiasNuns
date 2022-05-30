@@ -1,0 +1,17 @@
+body{
+  background: linear-gradient(to right, rgb(215, 145, 224), #8822e2);
+  font-family: 'Bitter', serif;
+}
+article{
+  width: 350px;
+  height: auto;
+  float: left;
+  padding: 2%;
+  border-radius: 15px;
+  margin: 1%;
+  background-color: beige;
+}
+img{
+  width: 100%;
+  object-fit: cover;
+}
